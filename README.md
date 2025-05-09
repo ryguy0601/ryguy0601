@@ -65,13 +65,6 @@
 
 ---
 
-<h2 style="color:#ff4081;">GitHub Streak</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryguy0601&theme=tokyonight&ring=ff4081&fire=ff4081&currStreakLabel=ff4081" />
-</p>
-
----
 
 <h2 style="color:#ff4081;">Connect with Me</h2>
 
