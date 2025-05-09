@@ -47,9 +47,11 @@
 
 <h2 style="color:#ff4081;">Technical Skills</h2>
 
-- Java, Python, JavaScript, SQL, HTML/CSS
-- Object-Oriented Programming, GUI design, Problem Solving
-- Git, IntelliJ IDEA, VS Code, Excel, Access, Linux/Unix
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=5000&color=FFFFFF&center=true&width=800&lines=Java%2C+Python%2C+JavaScript%2C+SQL%2C+HTML%2FCSS&background=ff408122" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=5000&color=FFFFFF&center=true&width=800&lines=Object-Oriented+Programming%2C+GUI+design%2C+Problem+Solving&background=ff408122" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=5000&color=FFFFFF&center=true&width=800&lines=Git%2C+IntelliJ+IDEA%2C+VS+Code%2C+Excel%2C+Access%2C+Linux%2FUnix&background=ff408122"/>
+</p>
 
 ---
 
