@@ -48,31 +48,31 @@
 
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="svg/lightMode/techStack/Java.svg" />
-    <img src="svg/darkMode/techStack/Java.svg" />
+    <img src="svg/darkMode/techStack/Java.svg" height="40"/>
 </picture>
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="svg/lightMode/techStack/Python.svg" />
-    <img src="svg/darkMode/techStack/Python.svg" />
+    <img src="svg/darkMode/techStack/Python.svg" height="40"/>
 </picture>
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="svg/lightMode/techStack/JavaScript.svg" />
-    <img src="svg/darkMode/techStack/JavaScript.svg" />
+    <img src="svg/darkMode/techStack/JavaScript.svg" height="40"/>
 </picture>
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="svg/lightMode/techStack/SQL.svg" />
-    <img src="svg/darkMode/techStack/SQL.svg" />
+    <img src="svg/darkMode/techStack/SQL.svg" height="40"/>
 </picture>
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="svg/lightMode/techStack/HTML5.svg" />
-    <img src="svg/darkMode/techStack/HTML5.svg" />
+    <img src="svg/darkMode/techStack/HTML5.svg" height="40"/>
 </picture>
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="svg/lightMode/techStack/CSS3.svg" />
-    <img src="svg/darkMode/techStack/CSS3.svg" />
+    <img src="svg/darkMode/techStack/CSS3.svg" height="40"/>
 </picture>
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="svg/lightMode/techStack/Linux.svg" />
-    <img src="svg/darkMode/techStack/Linux.svg" />
+    <img src="svg/darkMode/techStack/Linux.svg" height="40"/>
 </picture>
 
 </p>
