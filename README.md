@@ -14,7 +14,7 @@
 
 ---
 
-<h2 style="color:#ff4081;">Education</h2>
+<h2><span style="color:#ff4081;">Education</span></h2>
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=5000&color=FFFFFF&center=true&width=800&lines=Farmingdale+State+College%2C+NY&background=&background=ff408122" />
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=5000&color=FFFFFF&center=true&width=800&lines=Aug+2023+-+May+2027&background=&background=ff408122" />
