@@ -60,8 +60,8 @@
 <h2 style="color:#ff4081;">GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryguy0601&show_icons=true&theme=tokyonight&title_color=ff4081&icon_color=ff4081" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryguy0601&layout=compact&theme=tokyonight&title_color=ff4081" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ryguy0601&show_icons=true&theme=auto&title_color=ff4081&icon_color=ff4081" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryguy0601&layout=compact&theme=auto&title_color=ff4081" />
 </div>
 
 ---
