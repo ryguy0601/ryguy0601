@@ -44,14 +44,38 @@
 
 <h2 style="color:#ff4081;">Tech Stack</h2>
 
-![Java](https://img.shields.io/badge/Java-black?style=flat&logo=java&logoColor=ff4081)
-![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=ff4081)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=ff4081)
-![SQL](https://img.shields.io/badge/SQL-black?style=flat&logo=postgresql&logoColor=ff4081)
-![HTML](https://img.shields.io/badge/HTML5-black?style=flat&logo=html5&logoColor=ff4081)
-![CSS](https://img.shields.io/badge/CSS3-black?style=flat&logo=css3&logoColor=ff4081)
-![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux&logoColor=ff4081)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=ff4081)
+<p align="center">
+
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="svg/lightMode/techStack/Java.svg" />
+    <img src="svg/darkMode/techStack/Java.svg" />
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="svg/lightMode/techStack/Python.svg" />
+    <img src="svg/darkMode/techStack/Python.svg" />
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="svg/lightMode/techStack/JavaScript.svg" />
+    <img src="svg/darkMode/techStack/JavaScript.svg" />
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="svg/lightMode/techStack/SQL.svg" />
+    <img src="svg/darkMode/techStack/SQL.svg" />
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="svg/lightMode/techStack/HTML5.svg" />
+    <img src="svg/darkMode/techStack/HTML5.svg" />
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="svg/lightMode/techStack/CSS3.svg" />
+    <img src="svg/darkMode/techStack/CSS3.svg" />
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="svg/lightMode/techStack/Linux.svg" />
+    <img src="svg/darkMode/techStack/Linux.svg" />
+</picture>
+
+</p>
 
 
 
