@@ -2,7 +2,8 @@
 <div align="center" style="background-color: black">
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:0d1117,50:ff4081,100:0d1117&text=Hi%20I'm%20Ryan&stroke=000&fontColor=ff4081&textBg=false&rotate=0&strokeWidth=2&fontSize=110&reversal=false&fontAlignY=50" />
+  <  <img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:00000000,50:ff4081,100:00000000&text=Hi%20I'm%20Ryan&stroke=000&fontColor=ff4081&textBg=false&rotate=0&strokeWidth=2&fontSize=110&reversal=false&fontAlignY=50" />
+
 </p>
 
 <p align="center">
