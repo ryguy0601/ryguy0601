@@ -3,7 +3,7 @@
 <!-- Header Banner -->
 <picture align="center">
     <source media="(prefers-color-scheme: light)" srcset="svg/lightMode/header.svg" />
-    <img src="svg/darkMode/header.svg" />
+    <img src="svg/darkMode/header.svg" width=100%/>
 </picture>
 
 <p align="center">
