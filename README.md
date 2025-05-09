@@ -16,9 +16,9 @@
 
 <h2 style="color:#ff4081;">Education</h2>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FFFFFF&center=true&width=800&lines=Farmingdale+State+College%2C+NY&background=&background=ff408122" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FFFFFF&center=true&width=800&lines=Aug+2023+-+May+2027&background=&background=ff408122" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FFFFFF&center=true&width=800&lines=B.S.+in+Computer+Programming+and+Information+Systems&background=&background=ff408122"/> 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=5000&color=FFFFFF&center=true&width=800&lines=Farmingdale+State+College%2C+NY&background=&background=ff408122" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=5000&color=FFFFFF&center=true&width=800&lines=Aug+2023+-+May+2027&background=&background=ff408122" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=5000&color=FFFFFF&center=true&width=800&lines=B.S.+in+Computer+Programming+and+Information+Systems&background=&background=ff408122"/> 
 </p>
 
 
@@ -54,14 +54,15 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=5000&color=FFFFFF&center=true&width=800&lines=Git%2C+IntelliJ+IDEA%2C+VS+Code%2C+Excel%2C+Access%2C+Linux%2FUnix&background=ff408122"/>
 </p>
 
+
 ---
 
 
 <h2 style="color:#ff4081;">GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryguy0601&show_icons=true&theme=auto&title_color=ff4081&icon_color=ff4081" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryguy0601&layout=compact&theme=auto&title_color=ff4081" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ryguy0601&show_icons=true&theme=tokyonight&title_color=ff4081&icon_color=ff4081" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryguy0601&layout=compact&theme=tokyonight&title_color=ff4081" />
 </div>
 
 ---
@@ -78,4 +79,3 @@
 ---
 
 
-</div>
