@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="110" viewBox="0 0 400 110" fill="none">
-  <rect width="400" height="110" rx="12" fill="#0C0714" stroke="#3D1E5A" stroke-width="1.5"/>
-  <circle cx="36" cy="36" r="16" fill="#F43F5E" fill-opacity="0.15"/>
-  <path d="M36 26L38.5 31L44 31.8L40 35.7L41 41.2L36 38.5L31 41.2L32 35.7L28 31.8L33.5 31L36 26Z" fill="#FB7185"/>
-  <text fill="#FAF5FF" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="14" font-weight="700" x="64" y="32">Hackathon 1st Place Winner</text>
-  <text fill="#C084FC" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="12" x="64" y="52">CORPO — AI Corporate Translator</text>
-  <rect x="64" y="66" width="170" height="24" rx="12" fill="#F43F5E" fill-opacity="0.15" stroke="#F43F5E" stroke-opacity="0.4"/>
-  <text fill="#FDA4AF" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="11" font-weight="600" x="76" y="82">Gemini API &amp; Full-Stack</text>
-</svg>
