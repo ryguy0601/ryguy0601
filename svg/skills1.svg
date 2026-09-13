@@ -1,31 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="135" viewBox="0 0 400 135" fill="none">
-  <rect width="400" height="135" rx="12" fill="#0C0714" stroke="#3D1E5A" stroke-width="1.5"/>
-  <circle cx="28" cy="26" r="4" fill="#FF2E93"/>
-  <text fill="#FF2E93" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="13" font-weight="700" letter-spacing="0.8" x="40" y="30">LANGUAGES</text>
-  
-  <g transform="translate(20, 48)" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="12">
-    <rect width="46" height="28" rx="6" fill="#1C0E2B" stroke="#4A1E6D"/>
-    <text fill="#F5D0FE" x="13" y="18">C#</text>
+<svg width="460" height="180" viewBox="0 0 460 180" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="459" height="179" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="24" y="34" font-family="Inter, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#6E8CFF">Languages</text>
+  <line x1="24" y1="46" x2="436" y2="46" stroke="#30363D"/>
+  <g font-family="JetBrains Mono, monospace" font-size="12" fill="#E6EDF3">
+    <rect x="24" y="60" width="76" height="26" rx="4" fill="#0D1117" stroke="#30363D"/><text x="62" y="77" text-anchor="middle">C#</text>
+    <rect x="108" y="60" width="90" height="26" rx="4" fill="#0D1117" stroke="#30363D"/><text x="153" y="77" text-anchor="middle">Python</text>
+    <rect x="206" y="60" width="110" height="26" rx="4" fill="#0D1117" stroke="#30363D"/><text x="261" y="77" text-anchor="middle">JavaScript</text>
+    <rect x="324" y="60" width="76" height="26" rx="4" fill="#0D1117" stroke="#30363D"/><text x="362" y="77" text-anchor="middle">SQL</text>
 
-    <rect x="54" width="70" height="28" rx="6" fill="#1C0E2B" stroke="#4A1E6D"/>
-    <text fill="#F5D0FE" x="66" y="18">Python</text>
-
-    <rect x="132" width="88" height="28" rx="6" fill="#1C0E2B" stroke="#4A1E6D"/>
-    <text fill="#F5D0FE" x="144" y="18">JavaScript</text>
-
-    <rect x="228" width="56" height="28" rx="6" fill="#1C0E2B" stroke="#4A1E6D"/>
-    <text fill="#F5D0FE" x="240" y="18">Java</text>
-
-    <rect x="292" width="54" height="28" rx="6" fill="#1C0E2B" stroke="#4A1E6D"/>
-    <text fill="#F5D0FE" x="304" y="18">SQL</text>
-
-    <rect y="36" width="62" height="28" rx="6" fill="#1C0E2B" stroke="#4A1E6D"/>
-    <text fill="#F5D0FE" x="13" y="54">Kotlin</text>
-
-    <rect x="70" y="36" width="70" height="28" rx="6" fill="#1C0E2B" stroke="#4A1E6D"/>
-    <text fill="#F5D0FE" x="82" y="54">HTML5</text>
-
-    <rect x="148" y="36" width="60" height="28" rx="6" fill="#1C0E2B" stroke="#4A1E6D"/>
-    <text fill="#F5D0FE" x="160" y="54">CSS3</text>
+    <rect x="24" y="96" width="76" height="26" rx="4" fill="#0D1117" stroke="#30363D"/><text x="62" y="113" text-anchor="middle">Java</text>
+    <rect x="108" y="96" width="82" height="26" rx="4" fill="#0D1117" stroke="#30363D"/><text x="149" y="113" text-anchor="middle">HTML5</text>
+    <rect x="198" y="96" width="76" height="26" rx="4" fill="#0D1117" stroke="#30363D"/><text x="236" y="113" text-anchor="middle">CSS3</text>
+    <rect x="282" y="96" width="90" height="26" rx="4" fill="#0D1117" stroke="#30363D"/><text x="327" y="113" text-anchor="middle">Linux</text>
   </g>
 </svg>

@@ -1,9 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="110" viewBox="0 0 400 110" fill="none">
-  <rect width="400" height="110" rx="12" fill="#0C0714" stroke="#3D1E5A" stroke-width="1.5"/>
-  <circle cx="36" cy="36" r="16" fill="#FF2E93" fill-opacity="0.15"/>
-  <path d="M36 26L24 32L36 38L48 32L36 26ZM27 39.5V45.5C27 48.8 31 51.5 36 51.5C41 51.5 45 48.8 45 45.5V39.5L36 44.5L27 39.5Z" fill="#FF2E93"/>
-  <text fill="#FAF5FF" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="14" font-weight="700" x="64" y="32">Farmingdale State College</text>
-  <text fill="#C084FC" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="12" x="64" y="52">B.S. Computer Programming &amp; Info Systems</text>
-  <rect x="64" y="66" width="135" height="24" rx="12" fill="#FF2E93" fill-opacity="0.15" stroke="#FF2E93" stroke-opacity="0.4"/>
-  <text fill="#FF6BB5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="11" font-weight="600" x="78" y="82">Graduated July 2026</text>
+<svg width="310" height="72" viewBox="0 0 310 72" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="309" height="71" rx="6" fill="#161B22" stroke="#30363D"/>
+  <rect x="0.5" y="0.5" width="4" height="71" fill="#6E8CFF"/>
+  <text x="22" y="30" font-family="JetBrains Mono, monospace" font-size="11" fill="#8B949E">EDUCATION</text>
+  <text x="22" y="50" font-family="Inter, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#E6EDF3">Farmingdale State College</text>
 </svg>
