@@ -58,21 +58,21 @@ Software Engineer and Computer Programming graduate from Farmingdale State Colle
 
 Full-stack AI web app that translates complex contracts, commercial leases, and financial agreements into plain language while generating executive summaries and risk analysis. Integrated the Gemini API with React and Python services, implemented Supabase persistence, and deployed to production on Vercel.
 
-[View on GitHub →](https://github.com/ryguy0601)
-
+[View on GitHub →](https://github.com/JderenthalCS/Corpo)
+<!--
 ### Visual Regression Diff Studio
 **Automated Testing Engine** · `Python` `Playwright` `Tkinter` `Pillow` `Pixelmatch` `BeautifulSoup` `JavaScript`
 
 Desktop app and headless testing engine for pixel-level visual regression testing between staging and production. Built automated route crawling and responsive viewport capture with Playwright (cookie/popup dismissal, CSS animation suppression), and implemented a Longest Common Subsequence algorithm to align shifting DOM elements and cut false-positive diffs. Generates interactive HTML comparison reports with synchronized scrolling.
 
 [View on GitHub →](https://github.com/ryguy0601)
-
+-->
 ### Website-to-PDF Automation Suite
 **Enterprise Regulatory Pipeline** · `Python` `Selenium` `HTML` `C#`
 
 Enterprise automation platform for capturing dynamic web applications and generating full-page PDF documentation for regulatory reporting — viewport emulation, screenshot stitching, dynamic-content handling, popup management, and multi-threaded concurrent website scans.
 
-[View on GitHub →](https://github.com/ryguy0601)
+[View on GitHub →](https://github.com/ryguy0601/betterPrintToPDF)
 
 <br>
 
