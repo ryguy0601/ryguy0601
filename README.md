@@ -85,12 +85,3 @@ Enterprise automation platform for capturing dynamic web applications and genera
   <img src="svg/skills3.svg" alt="APIs, Cloud & Platforms" width="48%">
   <img src="svg/skills4.svg" alt="Tools & Specialized Focus" width="48%">
 </div>
-
-<br>
-
-## GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryguy0601&show_icons=true&theme=github_dark&hide_border=true&bg_color=161B22&title_color=6E8CFF&icon_color=3FB68A&text_color=E6EDF3" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryguy0601&layout=compact&theme=github_dark&hide_border=true&bg_color=161B22&title_color=6E8CFF&text_color=E6EDF3" alt="Top Languages" width="48%">
-</div>
